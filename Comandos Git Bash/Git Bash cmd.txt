@@ -1,0 +1,20 @@
+Comandos básicos para iniciar seu Git Bash.
+
+°git config = define valores específicos do usuário.
+
+° git config --global user.email sam@google.com = define o email que sera utilizado.
+
+° git config --global user.name Sam Lou = define o nome que sera utilizado.
+
+°git init = cria um novo repositório.
+
+°git add = adiciona arquivos ao índice.(exemp: git add past.txt)
+
+°git status = verifica o status dos seus arqquivos, se foram salvos ou não.
+
+°git push = envia a alteração feita no arquivo main. (exemp: git push origin main
+
+°git commit = confirma as alterações feitas no seu repositorio.
+
+°git clone = usado para verificação de repositorio.
+
